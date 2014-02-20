@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "node-uuid": "1.x",
-    "share": "0.7.x",
+    "share": "0.7.0-alpha10",
     "deep-is": "~0.1.1",
     "arraydiff": "~0.1.1",
     "browserify": "~3.19.0",
